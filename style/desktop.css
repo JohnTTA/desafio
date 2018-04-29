@@ -24,7 +24,8 @@ body{
   border-radius:20px;
   background-position:center;
   background-color:#bbb;
-  background-image:url("img/s_b.png") no-repeat;
+  background-image:url("img/s_b.png");
+  background-repeat:no-repeat;
   margin:10px -42px;
 }
 .search input[type=button]:hover{
